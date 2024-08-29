@@ -1,3 +1,3 @@
-# C++ for Science - Winter 2024 - Vanier
+# Game Programming 1 - Fall 2024 - Vanier
 
-This repository contains materials for C++ for Science course Winter 2024.
+This repository contains materials for Game Programming 1 course Fall 2024.
