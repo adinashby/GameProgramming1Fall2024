@@ -390,9 +390,7 @@ Game development is at the heart of creating video games. It involves a range of
 #### Licensing and IP Management
 
 - **Intellectual Property (IP)**: Managing the game’s IP rights, including trademarks, copyrights, and patents.
-- **Merchandising
-
-**: Developing and selling merchandise based on the game’s characters and branding.
+- **Merchandising**: Developing and selling merchandise based on the game’s characters and branding.
 - **Franchising**: Expanding the game into a franchise through sequels, spin-offs, and related media.
 
 ## Development Stages
