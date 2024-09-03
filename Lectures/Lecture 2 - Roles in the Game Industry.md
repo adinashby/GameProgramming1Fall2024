@@ -185,9 +185,7 @@ Game development is at the heart of creating video games. It involves a range of
 
 - **Original Soundtracks**: Creating music that sets the tone and mood of the game.
 - **Adaptive Music**: Developing dynamic scores that change based on gameplay events and player actions.
-- **Theme
-
- Development**: Establishing memorable musical themes for characters, locations, and key moments.
+- **Theme Development**: Establishing memorable musical themes for characters, locations, and key moments.
 
 #### Sound Effects Designers
 
