@@ -185,9 +185,7 @@ Game development is at the heart of creating video games. It involves a range of
 
 - **Original Soundtracks**: Creating music that sets the tone and mood of the game.
 - **Adaptive Music**: Developing dynamic scores that change based on gameplay events and player actions.
-- **Theme
-
- Development**: Establishing memorable musical themes for characters, locations, and key moments.
+- **Theme Development**: Establishing memorable musical themes for characters, locations, and key moments.
 
 #### Sound Effects Designers
 
@@ -392,9 +390,7 @@ Game development is at the heart of creating video games. It involves a range of
 #### Licensing and IP Management
 
 - **Intellectual Property (IP)**: Managing the game’s IP rights, including trademarks, copyrights, and patents.
-- **Merchandising
-
-**: Developing and selling merchandise based on the game’s characters and branding.
+- **Merchandising**: Developing and selling merchandise based on the game’s characters and branding.
 - **Franchising**: Expanding the game into a franchise through sequels, spin-offs, and related media.
 
 ## Development Stages
